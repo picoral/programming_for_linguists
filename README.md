@@ -3,5 +3,4 @@ This is a proposed course that introduced programming (in Python) for Linguists.
 
 ## Syllabus
 
-
-[embed]https://github.com/picoral/programming_for_linguists/blob/master/syllabus.pdf[/embed]
+[Syllabus](https://github.com/picoral/programming_for_linguists/blob/master/syllabus.pdf)
